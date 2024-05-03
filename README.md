@@ -1,7 +1,7 @@
 ### Hi there 👋
 
   [![Gaeon's github stats](https://github-readme-stats.vercel.app/api?username=Gaeon)](https://github.com/anuraghazra/github-readme-stats)
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaeon)](https://github.com/anuraghazra/github-readme-stats)
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gaeon0413)](https://solved.ac/gaeon0413)
 
 
