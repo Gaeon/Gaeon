@@ -2,7 +2,7 @@
 
   [![Gaeon's github stats](https://github-readme-stats.vercel.app/api?username=Gaeon)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gaeon0413)](https://solved.ac/wke1wke1)
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gaeon0413)](https://solved.ac/gaeon0413)
 
 
 <!--
